@@ -24,5 +24,9 @@
     "eslint-config-prettier": "^2.9.0",
     "parcel-bundler": "^1.9.7",
     "prettier": "^1.14.2"
+  },
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
   }
 }
